@@ -1,0 +1,11 @@
+# Historial local
+.Rhistory
+
+# Datos pesados para compartir por separado
+/Datos OSRM/
+/catastro.geojson
+/lab_01/agentes.geojson
+/lab_01/anexos/agentes.geojson
+/lab_01/catastro.geojson
+/lab_04/DPA_2023/
+/lab_04/DPA_2023.zip
